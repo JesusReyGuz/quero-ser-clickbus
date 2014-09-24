@@ -1,3 +1,0 @@
-fjreyescash_machine:
-    resource: "@fjreyescashMachineBundle/Resources/config/routing.php"
-    prefix:   /
